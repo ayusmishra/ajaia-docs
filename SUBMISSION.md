@@ -92,11 +92,11 @@ With another 2–4 hours I would prioritize:
 
 ## Live Product
 
-[LIVE_URL_TO_BE_ADDED](https://ajaia-docs-two-psi.vercel.app/)
+[VERCEL LINK](https://ajaia-docs-two-psi.vercel.app/)
 
 ## Walkthrough Video
 
-[VIDEO_URL_TO_BE_ADDED](https://youtu.be/6m7cVXN1SW8)
+[VIDEO LINK](https://youtu.be/6m7cVXN1SW8)
 
 ## Test Account
 
